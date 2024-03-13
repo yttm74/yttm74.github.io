@@ -27,3 +27,7 @@ http://iptv.hiper25.com:58080/lnxq/index.m3u8
 http://iptv.hiper25.com:58080/gzzh/index.m3u8
 #EXTINF:-1 tvg-name="廣州新聞（廣電 IPv6）" tvg-logo="https://live.fanmingming.com/tv/廣州新聞（廣電 IPv6）.png" group-title="undefined",廣州新聞（廣電 IPv6）
 http://iptv.hiper25.com:58080/gzxw/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="undefined",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="undefined",凤凰香港
+http://110.72.78.16:808/hls/63/index.m3u8
